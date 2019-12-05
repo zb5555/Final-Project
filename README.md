@@ -29,4 +29,4 @@ ___
 </head>
 <body>
 <h1>My Web Page for Info Tech 100</h1>
-<p>Zach Brasier will be creating a webpage with 2 HTML images.</p>
+<p>Zach Brasier from St.Louis missouri made this webpage about himself using the tools found in the class Info Tech 1000, offered by the University of Missouri.</p>
