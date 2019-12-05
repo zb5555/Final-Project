@@ -6,7 +6,8 @@ _I learned the basics of markdown through my online IT1000 class._
 ![Here is a picture of the bay bridge](https://f.dale.onl/mu/all/photos/BayBridge.jpg)
 ___
 [Here is a picture of the arch, found in St.Louis where I'm from](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiTsvbT15_mAhUP2qwKHaJUD98Qjhx6BAgBEAI&url=https%3A%2F%2Fscience.howstuffworks.com%2Fengineering%2Farchitecture%2Fst-louis-arch.htm&psig=AOvVaw0I8VcPS6fdBdy85_JUM3tz&ust=1575675726712715)
-Markdown Tools
+***
+###Markdown Tools
 * _Italics_
 * **Bold Text**
 ***
